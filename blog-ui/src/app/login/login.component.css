@@ -1,0 +1,40 @@
+
+.login-panel {
+    width: 350px;
+}
+
+.zero-margin {
+    margin: 0px;
+}
+.login-panel-header {
+    height: auto;    
+    background: url(../../assets/imgs/logo.png) no-repeat center top;
+    padding-top: 80px;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.site-name {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+.site-desc {
+    color:#4d4d4d;
+    font-size: 13px;
+    font-weight: normal;
+    text-align: right;
+}
+
+.bottom-border-only {
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-radius: 0px;
+    box-shadow: inset 0px 0px 1px 0px rgba(0, 0, 0, .075);
+    
+}
+
+.btn-spacing {
+    padding:3px;
+}
